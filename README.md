@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- LOGO OFICIAL & CABECERA -->
-  <img src="./logo_aisha.jpg" alt="Aisha Saray Angulo Renteria Logo" width="220" style="border-radius: 12px; margin-bottom: 15px;" />
+  <!-- LOGO OFICIAL CON EL NOMBRE EXACTO DE TU ARCHIVO -->
+  <img src="./logo_monogram_v2_1791118549805.jpg" alt="Aisha Saray Angulo Renteria Logo" width="240" style="border-radius: 12px; margin-bottom: 15px;" />
 
   # [ AISHA SARAY ANGULO RENTERIA ]
   ### ⚡ FULL STACK WEB DEVELOPER • AI MASTER 🧠
